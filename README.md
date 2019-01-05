@@ -43,7 +43,7 @@ via a USB cable and that you have already created a [catkin workspace][2]
 Build:
 
 1. cd ~/catkin_ws/src
-2. git clone https://github.com/dawonn/vectornav.git
+2. git clone https://github.com/Project-MANAS/vectornav.git
 3. cd ..
 4. catkin_make
 
